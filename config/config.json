@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "if0_36026470",
+    "password": "ZoG23945MweJ2M8",
+    "database": "if0_36026470_moviesDB",
+    "host": "sql312.infinityfree.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "if0_36026470",
+    "password": "ZoG23945MweJ2M8",
+    "database": "if0_36026470_moviesDB",
+    "host": "sql312.infinityfree.com",
+    "dialect": "mysql"
+  }
+}
